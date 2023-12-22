@@ -1,0 +1,13 @@
+.pares{
+    color: #fff;
+    background-color: #000;
+}
+
+.impares{
+    color: rgb(231, 29, 29);
+    background-color: rgb(25, 5, 239);
+}
+
+*{
+    text-align: center;
+}
